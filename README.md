@@ -9,7 +9,7 @@ Description: This project involves sales analysis performed using Tableau to unc
 
 ### **Telangana State Govermnment Sales** 📈
 
-Description: Telangana State government sales(TS_sales) revenue insights using Tableau and SQL, providing a comprehensive analysis of sales data for strategic decision-making.
+Description: Telangana State government sales(TS_analysis) revenue insights using Tableau and SQL, providing a comprehensive analysis of sales data for strategic decision-making.
 
 
 
