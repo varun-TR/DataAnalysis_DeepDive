@@ -1,3 +1,6 @@
 [submodule "TS_analysis"]
 	path = TS_analysis
 	url = https://github.com/varun-TR/TS_analysis.git
+[submodule "Atliq_sales_insights"]
+	path = Atliq_sales_insights
+	url = https://github.com/varun-TR/Atliq_sales_insights.git
