@@ -7,9 +7,9 @@ Welcome to my collection of mini projects! Here, you'll find a variety of projec
 
 Description: This project involves sales analysis performed using Tableau to uncover growth opportunities and optimize sales strategies.
 
-### **TS_Sales** 📈
+### **Telangana State Govermnment Sales** 📈
 
-Description: Telangana State government sales revenue insights using Tableau and SQL, providing a comprehensive analysis of sales data for strategic decision-making.
+Description: Telangana State government sales(TS_sales) revenue insights using Tableau and SQL, providing a comprehensive analysis of sales data for strategic decision-making.
 
 
 
