@@ -1,0 +1,3 @@
+[submodule "TS_analysis"]
+	path = TS_analysis
+	url = https://github.com/varun-TR/TS_analysis.git
