@@ -4,3 +4,6 @@
 [submodule "Atliq_sales_insights"]
 	path = Atliq_sales_insights
 	url = https://github.com/varun-TR/Atliq_sales_insights.git
+[submodule "london_bike_sharing"]
+	path = london_bike_sharing
+	url = https://github.com/varun-TR/london_bike_sharing.git
