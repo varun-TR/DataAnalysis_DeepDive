@@ -7,3 +7,6 @@
 [submodule "london_bike_sharing"]
 	path = london_bike_sharing
 	url = https://github.com/varun-TR/london_bike_sharing.git
+[submodule "coffee_shop_insights"]
+	path = coffee_shop_insights
+	url = https://github.com/varun-TR/coffee_shop_insights.git
