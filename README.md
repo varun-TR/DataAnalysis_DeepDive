@@ -11,6 +11,10 @@ Description: This project involves sales analysis performed using Tableau to unc
 
 Description: Telangana State government sales(TS_analysis) revenue insights using Tableau and SQL, providing a comprehensive analysis of sales data for strategic decision-making.
 
+### **Coffee Shop Insights** ☕️📉 (Excel)
+
+Description: In this project, we analyze coffee sales data to uncover actionable insights and support strategic business decisions for a coffee shop. Through data transformation in sql, visualization and statistical analysis in excel we aim to identify trends, optimize sales strategies, and enhance overall business performance.
+
 
 
 
