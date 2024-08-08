@@ -15,6 +15,8 @@ Description: Telangana State government sales(TS_analysis) revenue insights usin
 
 Description: In this project, we analyze coffee sales data to uncover actionable insights and support strategic business decisions for a coffee shop. Through data transformation in sql, visualization and statistical analysis in excel we aim to identify trends, optimize sales strategies, and enhance overall business performance.
 
+### **Customer Performance Market Report** 📊 (Excel)
+Description: This project involves a detailed analysis of customer performance metrics using Excel - DAX | power query | pivot tables. By leveraging advanced Excel functions and tools, I conducted a comprehensive evaluation of customer behavior, sales patterns, and market trends. The goal was to identify key performance indicators (KPIs), track customer engagement, and derive actionable insights to enhance marketing strategies and drive business growth.
 
 
 
