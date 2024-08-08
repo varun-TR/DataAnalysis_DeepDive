@@ -10,3 +10,9 @@
 [submodule "coffee_shop_insights"]
 	path = coffee_shop_insights
 	url = https://github.com/varun-TR/coffee_shop_insights.git
+[submodule "Olympic_Legacy"]
+	path = Olympic_Legacy
+	url = https://github.com/varun-TR/Olympic_Legacy.git
+[submodule "customer-market_performance_report"]
+	path = customer-market_performance_report
+	url = https://github.com/varun-TR/customer-market_performance_report.git
