@@ -16,3 +16,6 @@
 [submodule "customer-market_performance_report"]
 	path = customer-market_performance_report
 	url = https://github.com/varun-TR/customer-market_performance_report.git
+[submodule "infringement-url-analyzer"]
+	path = infringement-url-analyzer
+	url = https://github.com/varun-TR/infringement-url-analyzer.git
