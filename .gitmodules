@@ -19,3 +19,6 @@
 [submodule "infringement-url-analyzer"]
 	path = infringement-url-analyzer
 	url = https://github.com/varun-TR/infringement-url-analyzer.git
+[submodule "Webscrapper_for_journals"]
+	path = Webscrapper_for_journals
+	url = https://github.com/varun-TR/Webscrapper_for_journals.git
