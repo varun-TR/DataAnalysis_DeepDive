@@ -19,5 +19,5 @@ Description: In this project, we analyze coffee sales data to uncover actionable
 Description: This project involves a detailed analysis of customer performance metrics using Excel - DAX | power query | pivot tables. By leveraging advanced Excel functions and tools, I conducted a comprehensive evaluation of customer behavior, sales patterns, and market trends. The goal was to identify key performance indicators (KPIs), track customer engagement, and derive actionable insights to enhance marketing strategies and drive business growth.
 
 
-
+and many more ... (to be updated here soon)
 
