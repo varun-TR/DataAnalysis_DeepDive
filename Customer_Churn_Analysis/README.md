@@ -1,4 +1,4 @@
-# Customer Churn Analysis & Prediction
+# Customer Churn Analysis & Prediction.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
