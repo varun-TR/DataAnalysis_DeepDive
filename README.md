@@ -34,10 +34,6 @@
 
 ## Featured Projects
 
-### FAANG-Ready Data Analysis Projects
-
-> These four projects showcase the most in-demand skills for Data Analyst roles at top tech companies including Google, Amazon, Meta, Netflix, and other FAANG companies.
-
 ---
 
 ### A/B Testing Analysis for E-Commerce Optimization
