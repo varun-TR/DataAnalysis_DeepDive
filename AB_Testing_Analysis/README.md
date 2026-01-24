@@ -1,4 +1,4 @@
-# A/B Testing Analysis for E-Commerce Conversion Optimization
+# A/B Testing Analysis for E-Commerce Conversion Optimization.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
