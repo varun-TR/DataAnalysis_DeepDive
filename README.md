@@ -23,15 +23,90 @@
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | Python, SQL, R, DAX |
-| **Visualization** | Tableau, Power BI, Excel Dashboards, Matplotlib, Seaborn |
+| **Statistics/ML** | SciPy, Scikit-Learn, Statsmodels, A/B Testing |
+| **Visualization** | Tableau, Power BI, Excel Dashboards, Matplotlib, Seaborn, Plotly |
 | **Data Processing** | Pandas, NumPy, Power Query, ETL Pipelines |
-| **Databases** | MySQL, PostgreSQL |
+| **Databases** | MySQL, PostgreSQL, SQLite |
 | **Web Scraping** | Selenium, BeautifulSoup, Requests |
 | **Tools** | Jupyter Notebook, Git, VS Code |
 
 ---
 
 ## Featured Projects
+
+### FAANG-Ready Data Analysis Projects
+
+> These four projects showcase the most in-demand skills for Data Analyst roles at top tech companies including Google, Amazon, Meta, Netflix, and other FAANG companies.
+
+---
+
+### A/B Testing Analysis for E-Commerce Optimization
+**[AB_Testing_Analysis](./AB_Testing_Analysis)** | Python + Statistical Testing
+
+> Comprehensive A/B testing analysis demonstrating statistical hypothesis testing, power analysis, and experiment design - essential skills for product-driven companies like Google, Meta, and Netflix.
+
+| Metric | Value |
+|--------|-------|
+| Sample Size | 100,000 users |
+| Control Conversion | 11.2% |
+| Treatment Conversion | 13.8% |
+| Statistical Significance | p < 0.0001 |
+| Business Impact | +$27.6M annual revenue potential |
+
+**Skills:** Hypothesis Testing, Z-Tests, Chi-Square Tests, Power Analysis, Confidence Intervals, A/B Test Design
+
+---
+
+### Customer Churn Analysis & Prediction
+**[Customer_Churn_Analysis](./Customer_Churn_Analysis)** | Python + Machine Learning
+
+> End-to-end churn analysis combining EDA, cohort analysis, and predictive modeling - critical for subscription-based companies like Netflix, Spotify, and Amazon Prime.
+
+| Metric | Value |
+|--------|-------|
+| Customers Analyzed | 50,000 |
+| Overall Churn Rate | 18.5% |
+| Model Accuracy | 87.3% |
+| Model AUC-ROC | 0.912 |
+| High-Risk Customers Identified | 2,847 |
+
+**Skills:** EDA, Feature Engineering, RFM Segmentation, Logistic Regression, Random Forest, SHAP Values
+
+---
+
+### Product Funnel Analysis
+**[Product_Funnel_Analysis](./Product_Funnel_Analysis)** | Python + Product Analytics
+
+> Multi-step conversion funnel analysis with segmentation - the core skill for Product Analysts at Uber, Amazon, Airbnb, and any product-focused company.
+
+| Metric | Value |
+|--------|-------|
+| Users Analyzed | 100,000 |
+| Overall Conversion | 14.85% |
+| Critical Drop-off | View → Cart (47.3%) |
+| Segments Analyzed | Device, User Type, Traffic Source |
+
+**Skills:** Funnel Metrics, Conversion Analysis, Cohort Analysis, Segmentation, Time-to-Convert Analysis
+
+---
+
+### SQL Business Analytics
+**[SQL_Business_Analytics](./SQL_Business_Analytics)** | SQL + Python
+
+> Advanced SQL queries demonstrating window functions, CTEs, and complex analytics - the #1 most important skill for any Data Analyst position.
+
+| Metric | Value |
+|--------|-------|
+| Query Types | Revenue, Customer, Product, Cohort |
+| Advanced Features | Window Functions, CTEs, Subqueries |
+| Business Metrics | CLV, RFM, YoY Growth, Retention |
+| Database | PostgreSQL-compatible |
+
+**Skills:** Window Functions, CTEs, Cohort Analysis, RFM Segmentation, Revenue Analytics, Performance Optimization
+
+---
+
+## Additional Portfolio Projects
 
 ### 1. Telangana State Government Revenue Analysis
 **[TS_analysis](./TS_analysis)** | Tableau + SQL
@@ -159,27 +234,39 @@
 
 ```
 DataAnalysis_DeepDive/
-├── TS_analysis/                    # Government Revenue Analysis
-├── Atliq_sales_insights/           # Sales Intelligence Platform
-├── london_bike_sharing/            # Urban Mobility Analytics
-├── coffee_shop_insights/           # Retail Sales Optimization
-├── Olympic_Legacy/                 # Sports Data Analysis
-├── customer-market_performance_report/  # BI Dashboard
-├── infringement-url-analyzer/      # Cybersecurity Analytics
-└── Webscrapper_for_journals/       # Research Data Automation
+│
+├── 🎯 FAANG-Ready Projects
+│   ├── AB_Testing_Analysis/            # A/B Testing & Experimentation
+│   ├── Customer_Churn_Analysis/        # Churn Prediction & ML
+│   ├── Product_Funnel_Analysis/        # Product Analytics & Funnels
+│   └── SQL_Business_Analytics/         # Advanced SQL Analytics
+│
+├── 📊 Business Intelligence Projects
+│   ├── TS_analysis/                    # Government Revenue Analysis
+│   ├── Atliq_sales_insights/           # Sales Intelligence Platform
+│   ├── london_bike_sharing/            # Urban Mobility Analytics
+│   ├── coffee_shop_insights/           # Retail Sales Optimization
+│   ├── Olympic_Legacy/                 # Sports Data Analysis
+│   └── customer-market_performance_report/  # BI Dashboard
+│
+└── 🔧 Data Engineering Projects
+    ├── infringement-url-analyzer/      # Cybersecurity Analytics
+    └── Webscrapper_for_journals/       # Research Data Automation
 ```
 
 ---
 
 ## Key Competencies Demonstrated
 
-- **Data Engineering:** ETL pipeline development, data cleaning, transformation
-- **Statistical Analysis:** Trend analysis, pattern recognition, forecasting
-- **Business Intelligence:** Dashboard development, KPI tracking, executive reporting
-- **Database Management:** SQL query optimization, schema design, data modeling
-- **Visualization:** Interactive dashboards, data storytelling, presentation
-- **Automation:** Web scraping, parallel processing, batch data pipelines
-- **Domain Expertise:** Sales analytics, government data, urban mobility, cybersecurity
+- **Statistical Analysis:** A/B Testing, Hypothesis Testing, Confidence Intervals, Power Analysis
+- **Machine Learning:** Churn Prediction, Classification, Feature Engineering, Model Evaluation
+- **Product Analytics:** Funnel Analysis, Conversion Optimization, User Behavior Analysis
+- **SQL Mastery:** Window Functions, CTEs, Complex Joins, Query Optimization
+- **Business Intelligence:** Dashboard development, KPI tracking, Executive reporting
+- **Data Engineering:** ETL pipeline development, Data cleaning, Transformation
+- **Visualization:** Interactive dashboards, Data storytelling, Presentation
+- **Automation:** Web scraping, Parallel processing, Batch data pipelines
+- **Domain Expertise:** E-commerce, SaaS, Product Analytics, Revenue Analytics
 
 ---
 
