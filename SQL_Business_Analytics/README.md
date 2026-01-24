@@ -1,4 +1,4 @@
-# SQL Business Analytics - E-Commerce Analytics Platform
+# SQL Business Analytics - E-Commerce Analytics Platform.
 
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue.svg)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Compatible-green.svg)
